@@ -1,10 +1,14 @@
 import:
  - ~/.config/alacritty/themes/themes/alabaster_dark.yaml
 
+cursor:
+  style:
+    shape: Beam
+
 window:
   dimensions:
-    columns: 87
-    lines: 26
+    columns: 120
+    lines: 34
   opacity: 0.85
 
 font:
@@ -20,4 +24,4 @@ font:
     family: Hack
     style: Italic
 
-  size: 8.0
+  size: 6.0
