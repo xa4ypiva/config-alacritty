@@ -7,8 +7,8 @@ cursor:
 
 window:
   dimensions:
-    columns: 120
-    lines: 34
+    columns: 97
+    lines: 27
   opacity: 0.85
 
 font:
@@ -24,4 +24,11 @@ font:
     family: Hack
     style: Italic
 
-  size: 6.0
+  # size: 6.0
+  size: 12
+
+# env:
+  # TERM: screen-256color
+
+env:
+  WINIT_X11_SCALE_FACTOR: "1"
