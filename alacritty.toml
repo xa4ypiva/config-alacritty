@@ -1,0 +1,29 @@
+import = ["/home/xa4ypiva/.config/alacritty/themes/themes/alabaster_dark.toml"]
+
+[cursor.style]
+shape = "Beam"
+
+[env]
+WINIT_X11_SCALE_FACTOR = "1"
+
+[font]
+size = 12
+
+[font.bold]
+family = "Hack"
+style = "Bold"
+
+[font.italic]
+family = "Hack"
+style = "Italic"
+
+[font.normal]
+family = "Hack"
+style = "Regular"
+
+[window]
+opacity = 0.85
+
+[window.dimensions]
+columns = 97
+lines = 27
